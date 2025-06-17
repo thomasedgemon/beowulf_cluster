@@ -10,7 +10,7 @@ import (
 	mpi "github.com/mnlphlp/gompi"
 )
 
-const maxNumber = 100_000_000
+const maxNumber = 500_000_000
 
 // Bit manipulation helpers
 func setBit(arr []uint64, i int) {
